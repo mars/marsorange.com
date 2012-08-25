@@ -1,0 +1,8 @@
+---
+layout: post
+title: !binary |-
+  U25haWw=
+---
+<img src="/images/blogged/snail.jpg" height="164" width="218" alt="" />
+
+<p>Little squishy ones!</p>
