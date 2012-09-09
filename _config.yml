@@ -1,0 +1,4 @@
+source: ./jekyll
+destination: ./www
+plugins: ./_plugins
+permalink: /archives/:title.html

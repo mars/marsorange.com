@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 500 500" class="icon icon-fibonacci-radiance">
+<g class="layer-1">
+  <g>
+    <circle fill="#FFA520" cx="250" cy="250" r="250"/>
+    <circle fill="#FFB340" cx="250" cy="250" r="154.546"/>
+    <circle fill="#FFBF60" cx="250" cy="250" r="95.454"/>
+    <circle fill="#FFCC80" cx="250" cy="250" r="59.092"/>
+    <circle fill="#FFD99F" cx="250" cy="250" r="36.363"/>
+    <circle fill="#FFE5BF" cx="250" cy="250" r="22.727"/>
+    <circle fill="#FFF3DF" cx="250" cy="250" r="13.637"/>
+    <circle fill="#FFFFFF" cx="250" cy="250" r="9.092"/>
+  </g>
+</g>
+</svg>
